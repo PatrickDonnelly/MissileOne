@@ -1,4 +1,4 @@
-// author Peter Lowe
+// author Patrick Donnelly
 
 #include "Game.h"
 #include <iostream>
